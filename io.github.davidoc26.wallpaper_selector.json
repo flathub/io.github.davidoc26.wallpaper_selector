@@ -1,7 +1,7 @@
 {
   "app-id": "io.github.davidoc26.wallpaper_selector",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "42",
+  "runtime-version": "43",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -39,8 +39,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/Davidoc26/wallpaper-selector/releases/download/v0.3.0/wallpaper-selector-0.3.0.tar.xz",
-          "sha256": "582ab99f23191bdc4fc748efa5823061434e2b0613110e0c8fe97551b64a59c5"
+          "url": "https://github.com/Davidoc26/wallpaper-selector/releases/download/v0.3.1/wallpaper-selector-0.3.1.tar.xz",
+          "sha256": "2647410c5aa26876daff9e3ef1bb3b8d2b789d0e749087c88890ccf2b10f3c1a"
         }
       ]
     }
