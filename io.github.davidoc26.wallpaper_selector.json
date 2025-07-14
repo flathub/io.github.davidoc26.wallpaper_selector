@@ -39,8 +39,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/Davidoc26/wallpaper-selector/releases/download/v0.3.4/wallpaper-selector-0.3.4.tar.xz",
-          "sha256": "8aad13a6e7b77da590f1cca52fbf8793c69b218b85f08756edfae62c8aed160d"
+          "url": "https://github.com/Davidoc26/wallpaper-selector/releases/download/v0.3.5/wallpaper-selector-0.3.5.tar.xz",
+          "sha256": "5f20f3ddec6cc1773194b34777e451101505864488bb476b4f39d891c39f95c6"
         }
       ]
     }
